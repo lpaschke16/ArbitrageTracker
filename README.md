@@ -1,6 +1,5 @@
-# Linden Shore Technical Assessment
 
-## Uniswap v3 Liquidity Imbalance & Arbitrage Signal Tracker
+# Uniswap v3 Liquidity Imbalance & Arbitrage Signal Tracker
 
 Samples Uniswap v3 USDC/WETH pools (0.05% & 0.30%) through the **Ethereum JSON-RPC API**.
 
